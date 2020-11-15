@@ -1,0 +1,56 @@
+
+ 	Desde donde me interesa saber como fue es
+ 	desde Descansar.2
+ 	hasta Rememorar.4
+ 	
+ 	Tambien el diagrama 
+ 	
+ 	//////////////////////////////////////////////////////////
+	 
+ 	# Vivir.1
+ 	
+ 	persona.vivir(evento)
+ 	
+ 	# Vivir.2
+ 	
+ 	persona.asentarUn(recuerdoDelEvento)
+ 	
+ 	# Vivir.3
+ 	
+ 	persona.recuerdosRecientesDelDia()
+ 	
+ 	# Vivir.4
+ 	
+ 	persona.pensamientosCentrales()
+ 	
+ 	# Vivir.5
+ 	
+ 	persona.pensamientosCentralesDificiles()
+ 	
+	//////////////////////////////////////////////////////////
+ 	# Descansar.1
+ 	
+ 	persona.niega(recuerdo)						
+ 	
+ 	# Descansar.2
+ 	
+ 	persona.dormir()					
+ 	
+ 	//////////////////////////////////////////////////////////
+ 	# Rememorar.1
+ 	
+ 	persona.rememorar()
+ 	
+	# Rememorar.2
+	
+	persona.repeticionesEnMemoriaALargoPlazoDe(recuerdo)
+	
+	# Rememorar.3
+	
+	persona.estaTeniendoDejavu()
+	
+	# Rememorar.4
+	
+	// Modelar emociones compuesta
+	
+
